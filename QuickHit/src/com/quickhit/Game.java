@@ -87,6 +87,7 @@ public class Game {
 			player.setClapsedTime(0);
 		}
 		System.out.println("¹§Ï²Í¨¹Ø£¡£¡");
+		System.out.println("gogo");
 	}
 	
 }
